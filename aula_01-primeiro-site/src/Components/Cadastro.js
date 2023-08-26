@@ -32,9 +32,9 @@ function Cadastro() {
                 <button type="submit" className="btn btn-primary">Registro</button>
             </form>
             <br />
-            <h3>Nome: {nome}</h3>
-            <h3>Email: {email}</h3>
-            <h3>Idade: {idade}</h3>
+            {nome && <h3>Nome: {nome}</h3>}
+            {email && <h3>Email: {email}</h3>}
+            {idade && <h3>Idade: {idade}</h3>}
         </div>
     );
 }
