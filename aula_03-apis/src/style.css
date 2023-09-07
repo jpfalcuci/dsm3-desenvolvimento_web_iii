@@ -21,4 +21,15 @@ header {
     width: 100%;
     background-color: gold;
     color: white;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 220px;
+    margin-right: 10px;
+}
+
+input, button {
+    height: 30px;
+    margin-bottom: 10px;
 }
