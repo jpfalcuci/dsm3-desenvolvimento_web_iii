@@ -1,0 +1,10 @@
+chave da api
+2a9eeba8750c26c88972743f518b3444
+
+token de leitura da api
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyYTllZWJhODc1MGMyNmM4ODk3Mjc0M2Y1MThiMzQ0NCIsInN1YiI6IjY1MTVhMWMxOTNiZDY5MDBmZTQ3OGE0YiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.vMpZBai20gH2R_i0TDdKPUIwnDJjifzyzNYvPmhHPkw
+
+exemplos de requisição
+https://api.themoviedb.org/3/movie/550?api_key=2a9eeba8750c26c88972743f518b3444&language=pt-br
+
+https://api.themoviedb.org/3/movie/now_playing?api_key=2a9eeba8750c26c88972743f518b3444&language=pt-br
