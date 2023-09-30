@@ -1,0 +1,12 @@
+#loja-container {
+    text-align: center; /* Alinha o texto ao centro */
+    font-family: Arial, sans-serif; /* Define uma fonte */
+}
+
+.loja-link {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+    margin: 10px 0;
+    display: block;
+}
