@@ -1,0 +1,6 @@
+Comandos aula 18/10
+
+node -v
+npm init -y
+npm i express --save
+criar index.js
